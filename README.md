@@ -27,9 +27,9 @@ It provides RESTful APIs to manage tasks and integrates with a front-end interfa
  - Use your front-end interface to interact with the backend API.
 
 ### API Endpoints
- - GET /api/tasks: Retrieve all tasks.
- - GET /api/tasks/{taskId}: Retrieve a specific task by ID.
- - POST /api/tasks: Create a new task.
- - PATCH /api/tasks/{taskId}: Update a task.
- - DELETE /api/tasks/{taskId}: Delete a task.
+ - GET /url/tasks: Retrieve all tasks.
+ - GET /url/tasks/{taskId}: Retrieve a specific task by ID.
+ - POST /url/tasks: Create a new task.
+ - PATCH /url/tasks/{taskId}: Update a task.
+ - DELETE /url/tasks/{taskId}: Delete a task.
 
