@@ -1,9 +1,10 @@
 # to-do-list-app-backend
-Spring Boot to-do-list app backend 
 
 ## Description
-This Spring Boot backend application serves as the backend for a to-do list app. 
-It provides RESTful APIs to manage tasks and integrates with a front-end interface.
+* This Spring Boot backend application serves as the backend for a to-do list app. 
+* It provides RESTful APIs to manage tasks and integrates with a front-end interface.
+### Purpose
+* The purpose of this project was to practice building a backend with Spring Boot
 
 ## Features 
  - RESTful API for task management (CRUD operations);
