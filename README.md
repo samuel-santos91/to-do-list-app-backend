@@ -5,6 +5,8 @@
 * It provides RESTful APIs to manage tasks and integrates with a front-end interface.
 ### Purpose
 * The purpose of this project was to practice building a backend with Spring Boot
+### Tech Stack
+* Spring Boot
 
 ## Features 
  - RESTful API for task management (CRUD operations);
